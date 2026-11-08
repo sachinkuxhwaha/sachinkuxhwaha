@@ -21,9 +21,19 @@
 <img align="top" src="assets/duck-walk.gif" width="100%" alt="A developer duck walking across the screen" />
 <img align="top" src="assets/footer.svg" width="100%" alt="Code. Test. Quack. Repeat." />
 
-<a href="www.linkedin.com/in/sachinkuxhwaha"><img src="https://img.shields.io/badge/LinkedIn-F8E06E?style=for-the-badge&logo=linkedin&logoColor=3E3000" height = "30" alt="LinkedIn" /></a>
-<a href="https://github.com/sachinkuxhwaha"><img src="https://img.shields.io/badge/GitHub-3E3000?style=for-the-badge&logo=github&logoColor=F8E06E" height = "30" alt="GitHub" /></a>
-<a href="mailto:sachinkuxhwaha@gmail.com"><img src="https://img.shields.io/badge/Email-F8E06E?style=for-the-badge&logo=gmail&logoColor=3E3000" height = "30" alt="Email" /></a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sachinkuxhwaha">
+  <img src="https://img.shields.io/badge/LinkedIn-F8E06E?style=for-the-badge&logo=linkedin&logoColor=3E3000" height="35" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/sachinkuxhwaha">
+  <img src="https://img.shields.io/badge/GitHub-3E3000?style=for-the-badge&logo=github&logoColor=F8E06E" height="35" alt="GitHub"/>
+</a>
+<a href="mailto:sachinkuxhwaha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F8E06E?style=for-the-badge&logo=gmail&logoColor=3E3000" height="35" alt="Email"/>
+</a>
+
+</div>
 
 </div>
 

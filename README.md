@@ -1,88 +1,32 @@
 <div align="center">
 
-<br/>
+<img align="top" src="assets/hero-top.svg" width="100%" alt="Welcome to my little corner of the internet" />
+<img align="top" src="assets/hero-text.gif" width="100%" alt="Hey, I'm Sachin! Developer, Problem Solver, Lifelong Learner. Building things that work, one line of code at a time. Mumbai, India, Computer Science" />
+<img align="top" src="assets/philosophy.svg" width="100%" alt="The Duck Philosophy: if something walks like a duck, quacks like a duck, then it is a duck. Behaviour over labels." />
+<img align="top" src="assets/about.svg" width="100%" alt="About the developer" />
+<a id="tech-stack"></a>
+<img align="top" src="assets/tech-stack.svg" width="100%" alt="Tech stack. Languages: JavaScript, TypeScript, Python, SQL. Frontend: React.js, Next.js, Context API, Redux, Redux Toolkit, HTML5, CSS3, Tailwind CSS. Backend: Node.js, Express.js, Mongoose, RESTful APIs, JWT Authentication, Redis. Databases: MongoDB, PostgreSQL, Prisma. DevOps and Deployment: Docker, CI/CD, AWS EC2, Vercel. Tools: Git, GitHub, Vite, Postman, VS Code." />
+<!-- 
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%"><a href="#tech-stack"><img align="top" src="assets/toolbox.svg" width="100%" alt="Toolbox" /></a></td>
+<td width="50%"><a href="#-duck-lab"><img align="top" src="assets/duck-lab.svg" width="100%" alt="Duck Lab" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="#-brain-pond"><img align="top" src="assets/brain-pond.svg" width="100%" alt="Brain Pond" /></a></td>
+<td width="50%"><a href="#-quack-stats"><img align="top" src="assets/quack-stats.svg" width="100%" alt="Quack Stats" /></a></td>
+</tr>
+</table> -->
 
-<picture style="display: block; border-radius: 16px; overflow: hidden; width: 96%;">
-  <img src="assets/banner.jpeg" alt="Banner" style="width: 100%; display: block;" />
-</picture>
+<img align="top" src="assets/duck-walk.gif" width="100%" alt="A developer duck walking across the screen" />
+<img align="top" src="assets/footer.svg" width="100%" alt="Code. Test. Quack. Repeat." />
 
-<br/>
-
-<sub>धन्यः अस्मि भारतत्वेन</sub>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&pause=99999&color=0891B2&center=true&vCenter=true&width=700&lines=Sachin+Kushwaha" alt="Name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=17&pause=2500&color=777777&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+%2B+TypeScript+%2B+Next.js;Learning...+Learning...+Learning..." alt="Roles" />
-
-<br/><br/>
-
----
-
-## 🛠️ Tech Stack
-
-<br/>
-
-| **Core & Frontend** | **Backend & Tools** |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode,postman&theme=dark&perline=4" /> |
-
-<br/>
-
-> **MERN Stack** &nbsp;|&nbsp; **TypeScript** &nbsp;|&nbsp; **Next.js**
-
-<br/>
-
----
-
-<br/>
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.prodiligix.com" target="_blank">
-        <img src="assets/prodiligix.png" width="72" height="72" style="border-radius:16px" alt="ProDiligix" />
-      </a>
-      <br/><br/>
-      <a href="https://www.prodiligix.com"><b>ProDiligix</b></a>
-      <br/>
-      <sub>B2B Procurement Platform</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=FF6B00" />
-      <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=FF6B00" />
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.scrollmart.in" target="_blank">
-        <img src="assets/scrollmart.png" width="72" height="72" style="border-radius:16px" alt="ScrollMart" />
-      </a>
-      <br/><br/>
-      <a href="https://www.scrollmart.in"><b>ScrollMart</b></a>
-      <br/>
-      <sub>E-Commerce Platform</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=FF6B00" />
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=FF6B00" />
-    </td>
-  </tr>
-</table>
-<br/>
-
----
-
-## GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin624k&background=111111&ring=FF6B00&fire=FF8C00&currStreakLabel=FF6B00&sideLabels=aaaaaa&dates=666666&sideNums=ffffff&currStreakNum=FF6B00&border=333333&border_radius=10" height="175" />
-
-<br/>
-
----
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=14&pause=99999&color=FFFFFF&center=true&vCenter=true&width=500&lines=not+2day+but+2mrow" alt="Quote" />
-
-<br/>
+<a href="www.linkedin.com/in/sachinkuxhwaha"><img src="https://img.shields.io/badge/LinkedIn-F8E06E?style=for-the-badge&logo=linkedin&logoColor=3E3000" height = "30" alt="LinkedIn" /></a>
+<a href="https://github.com/sachinkuxhwaha"><img src="https://img.shields.io/badge/GitHub-3E3000?style=for-the-badge&logo=github&logoColor=F8E06E" height = "30" alt="GitHub" /></a>
+<a href="mailto:sachinkuxhwaha@gmail.com"><img src="https://img.shields.io/badge/Email-F8E06E?style=for-the-badge&logo=gmail&logoColor=3E3000" height = "30" alt="Email" /></a>
 
 </div>
+
+<br/>
+
+---

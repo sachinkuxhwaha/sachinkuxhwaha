@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" fill="#3E3000">
+<rect width="800" height="320" fill="#FBF0A8"/>
+<path d="M12 320V36a24 24 0 0 1 24-24h728a24 24 0 0 1 24 24v284z" fill="#F8E06E"/>
+<rect x="223.4" y="30" width="353.2" height="26" rx="13" fill="#3E3000" fill-opacity="0.09"/>
+<text x="400" y="48" font-size="13" font-weight="500" text-anchor="middle">WELCOME TO MY LITTLE CORNER OF THE INTERNET</text>
+<clipPath id="p"><rect x="36" y="70" width="728" height="250" rx="18"/></clipPath>
+<rect x="36" y="70" width="728" height="250" rx="18" fill="#fff"/>
+<g clip-path="url(#p)">
+  <ellipse cx="400" cy="300" rx="110" ry="85" fill="#FFD43B"/>
+  <ellipse cx="338" cy="285" rx="30" ry="52" fill="#FFC21A" transform="rotate(18 338 285)"/>
+  <circle cx="400" cy="185" r="78" fill="#FFE45E"/>
+  <ellipse cx="478" cy="205" rx="46" ry="22" fill="#F5A02A"/>
+  <ellipse cx="478" cy="196" rx="40" ry="10" fill="#FFB84D"/>
+  <circle cx="414" cy="172" r="27" fill="#fff" stroke="#2B2B2B" stroke-width="6"/>
+  <circle cx="420" cy="176" r="11" fill="#3A2415"/>
+  <circle cx="424" cy="171" r="4" fill="#fff"/>
+  <path d="M388 168 Q350 160 330 172" stroke="#2B2B2B" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <rect x="520" y="240" width="60" height="90" rx="10" fill="#2B2B2B" transform="rotate(-12 550 285)"/>
+  <rect x="528" y="248" width="44" height="70" rx="6" fill="#7FE5C4" transform="rotate(-12 550 285)"/>
+</g>
+</svg>
